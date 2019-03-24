@@ -4,3 +4,17 @@
 .fa.fa-play-circle.text-primary {
 }
 
+@media (min-width: 576px) {
+  .col-lg-7.my-auto {
+  }
+}
+
+@media (max-width:992px) {
+  header.masthead {
+    height: 100vh;
+    min-height: 1200px;
+    padding-top: 90px;
+    padding-bottom: 0;
+  }
+}
+
