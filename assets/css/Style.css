@@ -18,3 +18,9 @@
   }
 }
 
+section.features .feature-item i {
+  background: #fdc53a;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
